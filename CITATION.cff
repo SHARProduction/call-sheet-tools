@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Call Sheet Completeness Checker and Turnaround Window Validator"
+authors:
+  - name: "SHAR Production"
+url: "https://sharprod.com/"
+license: MIT
+version: 1.0.0

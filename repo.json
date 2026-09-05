@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "call-sheet-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w03-55",
+      "slug": "call-sheet-completeness-checker",
+      "title": "Call Sheet Completeness Checker",
+      "title_ru": "Проверка полноты call sheet",
+      "family": "call_sheet",
+      "purpose": "Validates contacts, times, locations, scenes, safety and distribution fields.",
+      "purpose_ru": "Проверяет контакты, время, локации, сцены, безопасность и поля рассылки call sheet.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w03-56",
+      "slug": "turnaround-window-validator",
+      "title": "Turnaround Window Validator",
+      "title_ru": "Валидатор межсменного отдыха",
+      "family": "call_sheet",
+      "purpose": "Calculates declared wrap-to-call intervals and flags policy thresholds.",
+      "purpose_ru": "Рассчитывает интервалы между окончанием и началом смен по заданным нормативам.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

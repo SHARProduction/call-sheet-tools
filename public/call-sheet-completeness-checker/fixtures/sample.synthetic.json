@@ -1,0 +1,17 @@
+{
+  "callSheet": {
+    "date": "2026-11-10",
+    "generalCall": "08:00",
+    "location": "Studio",
+    "contacts": [
+      "Producer"
+    ],
+    "scenes": [
+      "1"
+    ],
+    "safety": "Briefing",
+    "distribution": [
+      "crew"
+    ]
+  }
+}
